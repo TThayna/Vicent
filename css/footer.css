@@ -1,0 +1,278 @@
+.o-footer{
+    position: absolute;
+   
+    top: 4836px;
+
+    width: 100%;
+    
+}
+
+.section{
+
+    background-color: #121618;
+}
+
+.vicent-footer{
+
+    position: relative;
+    height: 867px;
+}
+
+.subs{
+
+    
+    position: absolute;
+    top: 85px;
+    left: 291px;
+    font-family: 'PT Sans Narrow';
+    font-size: 40px;
+    color: #fff;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+
+}
+
+.js{
+
+    position: absolute;
+    top: 252px;
+    left: 318px;
+    font-size: 33px;
+}
+
+.email{
+
+    background-color: #121618;
+    border: 2px solid #1d2326;
+}
+
+.buttom{
+    position: absolute;
+    left: 735px;
+    top: 251.5px;
+    font-family: 'PT Sans Narrow';
+    background-color: #1d2326;
+    border: #1d2326;
+    padding-top: 13px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 11.9px;
+    font-size: 17px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.a{
+
+    position: absolute;
+    top: 380px;
+    color: rgba(0, 0, 0, 0);
+    border-top: 1px solid #1d2326;
+    width: 100%;
+}
+
+.logofooter{
+
+    position: absolute;
+    top: 457px;
+    left: 515px;
+    width: 158px;
+}
+
+.number-footer{
+
+    position: absolute;
+    top: 609px;
+    left: 442px;
+    color: white;
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+
+.hous-footer{
+
+    position: absolute;
+    top: 615px;
+    left: 601px;
+    color: #9e9b9b;
+    font-weight: lighter;
+    font-size: 12px;
+    letter-spacing: 3px;
+}
+
+/* ul */
+.ul-footer{
+
+    display: flex;
+    position: absolute;
+    top: 648px;
+    left: 296px;
+}
+
+.home-footer{
+
+    list-style: none;
+}
+
+/* lis */
+
+.home-footter{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding-right: 40px;
+    letter-spacing: 4px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 14px;  
+}
+
+.menu-footer{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding-right: 40px;
+    letter-spacing: 4px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 14px;
+}
+
+.fatures-footer{
+
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding-right: 40px;
+    letter-spacing: 4px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 14px;
+}
+
+.about-footer{
+
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding-right: 40px;
+    letter-spacing: 4px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 14px;
+}
+
+.blog-footer{
+
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding-right: 40px;
+    letter-spacing: 4px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 14px;
+
+}
+
+.contact-footer{
+
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding-right: 40px;
+    letter-spacing: 4px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 14px;
+}
+
+.cpy{
+
+    position: absolute;
+    top: 790px;
+    left: 442px;
+    color: #9e9b9b;
+    font-family: 'Open Sans';
+    
+    font-weight: lighter;
+    font-size: 15px;
+    
+}
+
+/* icons */
+
+.twitter-icon{
+    position: absolute;
+    top: 745px;
+    left: 536px;
+    color: white;
+}
+
+.facebook-icon{
+
+    position: absolute;
+    top: 745px;
+    left: 585px;
+    color: white; 
+}
+
+.instagram-icon{
+
+    position: absolute;
+    top: 745px;
+    left: 633px;
+    color: white;
+}
+
+/* icons */
+
+/* area hover */
+
+.buttom:hover{
+
+    background-color: #ffc851;
+    color: black;
+
+}
+
+.home-footter:hover{
+
+    color: #ffc851;
+}
+
+.menu-footer:hover{
+
+    color: #ffc851;
+}
+
+.fatures-footer:hover{
+
+    color: #ffc851;
+}
+
+.about-footer:hover{
+
+    color: #ffc851;
+}
+
+.blog-footer:hover{
+
+    color: #ffc851;
+}
+
+.contact-footer:hover{
+
+    color: #ffc851;
+}
+
+.twitter-icon:hover{
+
+    color: #ffc851;
+}
+
+.facebook-icon:hover{
+
+    color: #ffc851;
+}
+
+.instagram-icon:hover{
+
+    color: #ffc851;
+}
+

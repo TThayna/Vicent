@@ -1,0 +1,830 @@
+.caixa-de-img{
+
+    position: absolute;
+    top: 2945px;
+    background-color: #121618;
+    width: 100%;
+    
+    height: 1107px;
+
+}
+
+.discover{
+
+    color: white;
+    position: absolute;
+    top: 77px;
+    left: 418px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 31px;
+    font-weight: 200;
+    letter-spacing: 5px;
+}
+
+.vicent-menu{
+
+    position: absolute;
+    top: 3127px;
+    left: 249px;
+    color: white;
+    font-family: "PT Sans Narrow";
+}
+
+.burges{
+
+    
+    padding-right: 46px;
+    font-size: 19px;
+    font-weight: 600;
+    letter-spacing: 4px;
+
+}
+
+
+
+.desserts{
+
+    
+    padding-right: 46px;
+    font-size: 19px;
+    font-weight: 600;
+    letter-spacing: 4px;
+}
+
+
+
+
+.drinks{
+
+    
+    padding-right: 46px;
+    font-size: 19px;
+    font-weight: 600;
+    letter-spacing: 4px;
+
+}
+
+.pasta{
+
+    
+    padding-right: 46px;
+    font-size: 19px;
+    font-weight: 600;
+    letter-spacing: 4px;
+   
+}
+
+.pizzas{
+    
+    padding-right: 46px;
+    font-size: 19px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    color:#ffc851;
+
+}
+
+.salads{
+
+    
+    font-size: 19px;
+    font-weight: 600;
+    letter-spacing: 4px;
+
+}
+
+.pizza-margherita{
+
+    position: absolute;
+    top: 3247px;
+    left: 64px;
+    width: 207px
+
+}
+
+
+.pizza-vicent{
+
+    position: absolute;
+    top: 3247px;
+    left: 355px;
+    width: 207px;
+}  
+
+.pizza-pepperoni{
+
+    position: absolute;
+    top: 3247px;
+    left: 655px;
+    width: 207px
+}
+
+.pizza-diablo{
+
+    position: absolute;
+    top: 3247px;
+    left: 930px;
+    width: 207px;
+}
+
+.pizza-carbonara{
+
+    
+    position: absolute;
+    top: 3647px;
+   
+    left: 42px;
+
+    width: 207px;
+
+}
+
+.pizza-capricciosa{
+
+    position: absolute;
+    top: 3647px;
+    left: 349px;
+    width: 207px;
+}
+
+.pizza-prosciutto{
+
+    position: absolute;
+   
+    top: 3650px;
+
+    left: 655px;
+    width: 207px;  
+}
+
+.pizza-saporita{
+
+    position: absolute;
+    top: 3656px;
+    left: 941px;
+    width: 207px;
+}
+
+.mg-pizza{
+    
+    position: absolute;
+    top: 3471px;
+    left: 96px;
+    font-size: 17px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 600;
+    color: white;
+    letter-spacing: 6px;
+
+}
+
+.vc-pizza{
+
+    position: absolute;
+    top: 3471px;
+    left: 415px;
+    font-size: 17px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 600;
+    color: white;
+    letter-spacing: 6px;
+}
+
+.pe-pizza{
+
+    position: absolute;
+    top: 3471px;
+    left: 704px;
+    font-size: 17px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 600;
+    color: white;
+    letter-spacing: 6px;
+}
+
+.di-pizza{
+
+    position: absolute;
+    top: 3471px;
+    left: 1001px;
+    font-size: 17px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 600;
+    color: white;
+    letter-spacing: 6px;
+}
+
+.cl-mari{
+
+    position: absolute;
+    top: 3506px;
+    left: 41px;
+    font-size: 14px;
+    font-family: 'Open Sans';
+    text-align: center;
+    line-height: 24px;
+    /* font-family: 'PT Sans Narrow'; */
+    font-weight: 100;
+    color: white;
+
+}
+
+.cl-sau{
+
+    
+    position: absolute;
+    top: 3506px;
+    left: 341px;
+    font-size: 14px;
+    font-family: 'Open Sans';
+    text-align: center;
+    line-height: 24px;
+    font-weight: 100;
+    color: white;
+
+}
+
+.cl-aut{
+
+    position: absolute;
+    top: 3506px;
+    left: 646px;
+    font-size: 14px;
+    font-family: 'Open Sans';
+    text-align: center;
+    line-height: 24px;
+    font-weight: 100;
+    color: white;
+
+}
+
+.cl-old{
+
+    position: absolute;
+    top: 3506px;
+    left: 928px;
+    font-size: 14px;
+    font-family: 'Open Sans';
+    text-align: center;
+    line-height: 24px;
+    font-weight: 100;
+    color: white;  
+}
+
+.valors-by-vicent{
+
+    position: absolute;
+    top: 3579px;
+    left: 122px;
+}
+
+.preço-my{
+
+    padding-right: 199px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.valors{
+
+    padding-right: 183px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.valores{
+
+    padding-right: 205px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.valores-vicent{
+
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.ca-pizza{
+
+    position: absolute;
+    top: 3865px;
+    left: 81px;
+    font-size: 17px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 600;
+    color: white;
+    letter-spacing: 6px;
+}
+
+.cp-pizza{
+
+    position: absolute;
+    top: 3865px;
+    left: 376px;
+    font-size: 17px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 600;
+    color: white;
+    letter-spacing: 6px;
+}
+
+.pro-pizza{
+
+    position: absolute;
+    top: 3867px;
+    left: 692px;
+    font-size: 17px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 600;
+    color: white;
+    letter-spacing: 6px;
+}
+
+.sp-pizza{
+
+    
+    position: absolute;
+    top: 3867px;
+    left: 992px;
+    font-size: 17px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 600;
+    color: white;
+    letter-spacing: 6px;
+
+}
+
+
+.cl-wo{
+
+    position: absolute;
+    top: 3903px;
+    
+    left: 29px;
+
+    font-size: 14px;
+    font-family: 'Open Sans';
+    text-align: center;
+    line-height: 24px;
+    font-weight: 100;
+    color: white;
+}
+
+.cl-pp{
+
+    position: absolute;
+    top: 3903px;
+    left: 326px;
+    font-size: 14px;
+    font-family: 'Open Sans';
+    text-align: center;
+    line-height: 24px;
+    font-weight: 100;
+    color: white; 
+}
+
+.cl-all{
+
+    position: absolute;
+    top: 3903px;
+    left: 642px;
+    font-size: 14px;
+    font-family: 'Open Sans';
+    text-align: center;
+    line-height: 24px;
+    font-weight: 100;
+    color: white;
+
+}
+
+.cl-na{
+
+    
+    position: absolute;
+    top: 3903px;
+    left: 930px;
+    font-size: 14px;
+    font-family: 'Open Sans';
+    text-align: center;
+    line-height: 24px;
+    font-weight: 100;
+    color: white;
+
+}
+
+.tres{
+
+    position: absolute;
+    top: 3965px;
+    left: 107px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.dois{
+
+    
+    position: absolute;
+    top: 3965px;
+    left: 410px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+
+
+}
+
+.cinco{
+
+    position: absolute;
+    top: 3965px;
+    left: 729px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.seis{
+
+    position: absolute;
+    top: 3965px;
+    left: 1021px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.background-pizza{
+
+    background: url("../img/fundo/back_3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 4051px;
+    width: 100%;
+    height: 801px;
+}
+
+.not-just-pizza{
+
+    position: absolute;
+    top: 79px;
+    left: 444px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 5px;
+}
+
+.something{
+
+    position: absolute;
+    top: 128px;
+    left: 316px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 100;
+    font-size: 39px;
+    letter-spacing: 9px;
+}
+
+.separator{
+
+    position: absolute;
+    top: 205px;
+    left: 502px;
+
+}
+
+.and{
+    position: absolute;
+    top: 275px;
+    left: 245px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 17px;
+    font-weight: 100;
+    line-height: 29px;
+}
+
+.ap{
+
+    position: absolute;
+    top: 4455px;
+    left: 140px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+.pr{
+
+    position: absolute;
+    top: 4455px;
+    left: 408px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+.pr6{
+
+
+    position: absolute;
+    top: 4455px;
+    left: 704px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 2px;
+
+}
+
+.dois-sete{
+
+    
+    position: absolute;
+    top: 4455px;
+    left: 970px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 2px;
+
+}
+
+.helsey{
+
+    position: absolute;
+    top: 4498px;
+    left: 113px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 800;
+    font-size: 19px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.food{
+
+    position: absolute;
+    top: 4498px;
+    left: 375px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 800;
+    font-size: 19px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.ingredient{
+
+    position: absolute;
+    top: 4498px;
+    left: 664px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 800;
+    font-size: 19px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.kit{
+
+    position: absolute;
+    top: 4498px;
+    left: 944px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 800;
+    font-size: 19px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.lorem{
+
+    position: absolute;
+    top: 4570px;
+    left: 74px;
+    font-family: 'Open Sans';
+    font-weight: 100;
+    font-size: 15px;
+    text-align: center;
+    line-height: 26px;
+    
+}
+
+.conse{
+
+    position: absolute;
+    top: 4570px;
+    left: 349px;
+    font-family: 'Open Sans';
+    font-weight: 100;
+    font-size: 15px;
+    text-align: center;
+    line-height: 26px;
+}
+
+.elit{
+
+    position: absolute;
+    top: 4570px;
+    left: 642px;
+    font-family: 'Open Sans';
+    font-weight: 100;
+    font-size: 15px;
+    text-align: center;
+    line-height: 26px;
+}
+
+.fusce{
+
+    position: absolute;
+    top: 4570px;
+    left: 920px;
+    font-family: 'Open Sans';
+    font-weight: 100;
+    font-size: 15px;
+    text-align: center;
+    line-height: 26px;
+}
+
+
+/* buttom */
+
+.rd-more{
+
+    position: absolute;
+    top: 4690px;
+    left: 113px;
+    border: solid 2px;
+    padding-right: 33px;
+    padding-left: 23px;
+    padding-top: 8px;
+    padding-bottom: 11px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+/* icon */
+
+.arrow{
+    position: absolute;
+    top: 4701px;
+    left: 229px;
+    font-size: 18px;
+}
+
+/* icon */
+
+.rea-more{
+
+    position: absolute;
+    top: 4690px;
+    left: 390px;
+    border: solid 2px;
+    padding-right: 33px;
+    padding-left: 23px;
+    padding-top: 8px;
+    padding-bottom: 11px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 2px;
+
+}
+
+/* icon */
+
+.arrow-icon{
+
+    position: absolute;
+    top: 4701px;
+    left: 508px;
+    font-size: 18px;
+}
+
+/* icon */
+
+.read-more{
+
+    position: absolute;
+    top: 4690px;
+    left: 691px;
+    border: solid 2px;
+    padding-right: 33px;
+    padding-left: 23px;
+    padding-top: 8px;
+    padding-bottom: 11px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+/* icon arrow */
+
+.icon-arr{
+
+    position: absolute;
+    top: 4701px;
+    left: 809px;
+    font-size: 18px;
+}
+
+/* icon arrow */
+
+.re-more{
+
+    position: absolute;
+    top: 4690px;
+    left: 972px;
+    border: solid 2px;
+    padding-right: 33px;
+    padding-left: 23px;
+    padding-top: 8px;
+    padding-bottom: 11px;
+    font-family: 'PT Sans Narrow';
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 2px;
+
+}
+
+/* icon arrow */
+
+.icon-aw{
+
+    position: absolute;
+    top: 4701px;
+    left: 1089px;
+    font-size: 18px;
+
+}
+
+/* icon arrow */
+
+/* ;;;;;;;;;; */
+
+/* area hover */
+
+.rd-more:hover{
+
+  background: #121618;
+  border: black;
+  color: white;
+ 
+}
+
+.rea-more:hover{
+
+    background: #121618;
+    border: black;
+    color: white;
+}
+
+.read-more:hover{
+
+    background: #121618;
+    border: black;
+    color: white;
+}
+
+.re-more:hover{
+
+    
+    background: #121618;
+    border: black;
+    color: white;
+}
+
+
+
+
+

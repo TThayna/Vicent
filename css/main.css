@@ -1,0 +1,503 @@
+.o-main{
+
+    background: url("../img/imgtopo/slide_1.jpg");
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    height: 803px;
+    width: 100%;
+    position: relative;
+}
+
+.img-pizza{
+
+    position: absolute;
+    top: 72px;
+    left: 367px;
+}
+
+.nav-left{
+
+    position: absolute;
+    top: 388px;
+    left: 49px;
+    width: 30px;
+}
+
+.nav-right{
+
+    position: absolute;
+    top: 388px;
+    left: 1129px;
+    width: 30px;
+}
+
+.vicent{
+
+    position: absolute;
+    top: 569px;
+    left: 506px;
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    letter-spacing: 17px;
+    font-weight: 300;
+    font-size: 41px;
+
+
+}
+
+.Italian-pizza{
+
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: white;
+    position: absolute;
+    top: 680px;
+    text-align: center;
+    left: 444px;
+    font-size: 19px;
+    line-height: 34px;
+    letter-spacing: 3px;
+    font-weight: 500;
+}
+
+.back{
+
+    background: url("../img/fundo/back_2.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 802px;
+    width: 100%;
+    height: 454px;
+}
+
+.icon-cenoura{
+
+    position: absolute;
+    top: 895px;
+    left: 178px;
+}
+
+.icon-cart{
+
+    position: absolute;
+    top: 886px;
+    left: 537px;
+}
+
+.pizza-icon{
+
+    
+    position: absolute;
+    top: 895px;
+    left: 917px;
+
+}
+
+.quality{
+
+    position: absolute;
+    top: 1004px;
+    left: 128px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 100;
+    font-size: 29px;
+    letter-spacing: 2px;
+}
+
+.sit{
+
+    position: absolute;
+    top: 1075px;
+    left: 44px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 32px;
+    font-weight: 200;
+}
+
+.fast{
+
+    position: absolute;
+    top: 1004px;
+    left: 481px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 100;
+    font-size: 29px;
+    letter-spacing: 2px;
+}
+
+.amet{
+
+    position: absolute;
+    top: 1075px;
+    left: 416px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 32px;
+    font-weight: 200;
+}
+
+.original{
+
+    position: absolute;
+    top: 1004px;
+    left: 851px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 100;
+    font-size: 29px;
+    letter-spacing: 2px;
+}
+
+.cons{
+
+    position: absolute;
+    top: 1075px;
+    left: 798px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 32px;
+    font-weight: 200;
+}
+
+/* fim do topo */
+
+
+.o-menu{
+    
+    position: absolute;
+    top: 1526px;
+    background-color:#121618;
+    width: 100%;
+    height: 703px;
+
+}
+
+.hot-sales{
+
+    color: white;
+    position: absolute;
+    top: 115px;
+    left: 496px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 31px;
+    font-weight: 200;
+    letter-spacing: 5px;
+}
+
+.menu-pizza{
+
+    position: absolute;
+    top: 218px;
+    left: 64px;
+    width: 207px;
+}
+
+.menu-pizza-png{
+
+    position: absolute;
+    top: 218px;
+    left: 348px;
+    width: 207px;
+}
+
+.menu-png{
+
+    position: absolute;
+    top: 218px;
+    left: 643px;
+    width: 207px;
+}
+
+.pro-menu-png{
+
+    position: absolute;
+    top: 218px;
+    left: 936px;
+    width: 207px;
+}
+
+.diablo{
+
+    position: absolute;
+    top: 1978px;
+    left: 127px;
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+
+.carbonara{
+
+    position: absolute;
+    top: 1978px;
+    left: 396px;
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.capri{
+
+    position: absolute;
+    top: 1978px;
+    left: 695px;
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.prosci{
+
+        position: absolute;
+    top: 1978px;
+    left: 988px;
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.pizza-classic{
+
+    
+    position: absolute;
+    top: 2040px;
+    left: 35px;
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    text-align: center;
+    line-height: 25px;
+    font-weight: 100;
+    letter-spacing: 1px;
+
+}
+
+.marinara-classic{
+
+    position: absolute;
+    top: 2040px;
+    left: 327px;
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    text-align: center;
+    line-height: 25px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.suace-classic{
+
+    position: absolute;
+    top: 2040px;
+    left: 629px;
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    text-align: center;
+    line-height: 25px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.authentic{
+
+    position: absolute;
+    top: 2040px;
+    left: 929px;
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    text-align: center;
+    line-height: 25px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+
+.valor-diablo{
+
+    position: absolute;
+    top: 2118px;
+    left: 122px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.valor-carbonara{
+
+    position: absolute;
+    top: 2118px;
+    left: 413px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+
+.valor-capri{
+
+    position: absolute;
+    top: 2118px;
+    left: 736px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.valor-prosci{
+
+    position: absolute;
+    top: 2118px;
+    left: 1030px;
+    font-family: 'PT Sans Narrow';
+    font-size: 23px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.background-vicent-pizza{
+
+    background: url("../img/fundo/back_1.jpg") 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 2226px;
+    width: 100%;
+    height: 719px;
+
+}
+
+.we-are-vicent{
+
+    position: absolute;
+    top: 92px;
+    left: 44px;
+    font-family: 'PT Sans Narrow';
+    font-size: 41px;
+    letter-spacing: 9px;
+}
+
+.just-make-pizza{
+
+    position: absolute;
+    top: 194px;
+    left: 48px;
+    font-family: 'PT Sans Narrow';
+    font-size: 15px;
+    letter-spacing: 3px;
+    line-height: 32px;
+}
+
+.separator_dark{
+
+    position: absolute;
+    top: 2554px;
+    left: 43px;
+}
+
+.purpose-vicent{
+
+    position: absolute;
+    top: 2593px;
+    left: 43px;
+    font-family: 'Open Sans';
+    font-weight: 100;
+    line-height: 29px;
+}
+
+.with-more{
+
+    position: absolute;
+    top: 2718px;
+    left: 43px;
+    font-family: 'Open Sans';
+    font-weight: 100;
+    line-height: 29px;
+}
+
+.comentarios{
+    position: absolute;
+    top: 2330px;
+    left: 634px;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 30px;
+    border: 2px solid black;
+    padding: 23px;
+}
+
+.testimonial{
+
+    position: absolute;
+    top: 2589px;
+    left: 633px;
+    width: 49px;
+    border-radius: 50%;
+}
+
+.adam{
+
+    position: absolute;
+    top: 2591px;
+    left: 694px;
+    font-family: 'PT Sans Narrow';
+    letter-spacing: 2px;
+}
+
+.lawyer{
+
+    position: absolute;
+    top: 2615px;
+    left: 694px;
+    font-family: 'PT Sans Narrow';
+}
+
+.awesome{
+
+    position: absolute;
+    top: 2676px;
+    left: 634px;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 30px;
+    border: 2px solid black;
+    padding: 23px;
+}
+
+.peoples-testimonial{
+
+    position: absolute;
+    top: 2806px;
+    left: 633px;
+    width: 48px;
+    border-radius: 50%;
+
+}
+
+.samantha{
+
+    position: absolute;
+    top: 2813px;
+    left: 694px;
+    font-family: 'PT Sans Narrow';
+    letter-spacing: 2px;
+}
+/* area hover */
